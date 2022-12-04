@@ -2,7 +2,12 @@
 
 Go to:
 - [Hello PICO-8](./hellopico8.md) - Join me on my first PICO-8 journey!
-- [Click here to play the latest build!](./game/ac_beta_2.html) - Get started and experience a more refined experience in Beta 2, now featuring up to 7 enemies in battle!
+- [Click here to play the latest build!](./game/ac_beta_3.html) - Get started and experience a more refined experience in Beta 3, now featuring up to 7 enemies in battle!
+   - [[Beta 3] (Latest)](./game/ac_beta_3.html)
+      - Uniformity tweak for wider and more sprawling level generation.
+      - Upped starting max rooms to 30.
+   - [[Beta 2]](./game/ac_beta_2.html)
+      - Enemy max now upped to 7.
    - [[Beta 1]](./game/ac_beta_1.html)
       - Full OST release.
       - Maximum of 5 enemies.
